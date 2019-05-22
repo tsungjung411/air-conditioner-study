@@ -16,3 +16,14 @@
 - 節能標章
   - [無風管空調機比一比](https://www.energylabel.org.tw/purchasing/compare/NonDucted_air_conditioning.aspx)
      - 計算假設條件：全年冷氣運轉時數以1188.4小時計算
+     
+- 冷媒
+  - [關於空調用新冷媒R140A，你可能還不知道！](https://kknews.cc/zh-tw/news/x8meog.html)
+    - R410A 是一種混合製冷劑，它是由 R32（二氟甲烷）和 R125（五氟乙烷）組成的混合物
+    - 不破壞臭氧層
+    - 毒性極低
+  - [新冷媒 r32 和 r410A 哪個好？看了這個終於懂了](https://kknews.cc/zh-tw/digital/bgvaqoj.html)
+    - R32：二氟甲烷
+    - 熱物性：R32 充注量為 R410A 的 0.71 倍
+    - 安全性：R32 與 R410A 均無毒，而 R32 可燃
+    - 綜合節能：R32 比 R410A 節能 4.3%
