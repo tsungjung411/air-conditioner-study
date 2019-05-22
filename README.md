@@ -7,6 +7,8 @@
    - 2017/1/1 起，冷氣機效能標示從 EER 改為 CSPF（Cooling Seasonal Performance Factor；冷氣季節性能因數）
    - 根據：我國氣候條件下的全年「冷氣需求量」與「運轉耗電量」，計算出空調機在全年冷氣季節的運轉效率
    
+- [認識冷氣能力計算單位【良興小知識】](https://www.eclife.com.tw/wiseman/cont600.htm)
+   
 - [冷氣冷房需求kW,BTU 計算機](http://btu.0123456789.tw/)
 
 - [冷氣能源效率 EER 及耗電計算標示-經濟部統一標示規定了](https://0123456789.tw/?p=1956)
