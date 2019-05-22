@@ -6,3 +6,7 @@
 - [冷氣冷房需求kW,BTU 計算機](http://btu.0123456789.tw/)
 
 - [冷氣能源效率 EER 及耗電計算標示-經濟部統一標示規定了](https://0123456789.tw/?p=1956)
+
+- 節能標章
+  - [無風管空調機比一比](https://www.energylabel.org.tw/purchasing/compare/NonDucted_air_conditioning.aspx)
+     - 計算假設條件：全年冷氣運轉時數以1188.4小時計算
